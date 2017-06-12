@@ -1,0 +1,9 @@
+c:\users\maksym.nechyporuk\documents\visual studio 2017\Projects\BDDBasketDemo\BDDBasketDemo\bin\Debug\BDDBasketDemo.dll.config
+c:\users\maksym.nechyporuk\documents\visual studio 2017\Projects\BDDBasketDemo\BDDBasketDemo\bin\Debug\BDDBasketDemo.dll
+c:\users\maksym.nechyporuk\documents\visual studio 2017\Projects\BDDBasketDemo\BDDBasketDemo\bin\Debug\BDDBasketDemo.pdb
+c:\users\maksym.nechyporuk\documents\visual studio 2017\Projects\BDDBasketDemo\BDDBasketDemo\bin\Debug\nunit.framework.dll
+c:\users\maksym.nechyporuk\documents\visual studio 2017\Projects\BDDBasketDemo\BDDBasketDemo\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\maksym.nechyporuk\documents\visual studio 2017\Projects\BDDBasketDemo\BDDBasketDemo\bin\Debug\nunit.framework.xml
+c:\users\maksym.nechyporuk\documents\visual studio 2017\Projects\BDDBasketDemo\BDDBasketDemo\obj\Debug\BDDBasketDemo.csprojResolveAssemblyReference.cache
+c:\users\maksym.nechyporuk\documents\visual studio 2017\Projects\BDDBasketDemo\BDDBasketDemo\obj\Debug\BDDBasketDemo.dll
+c:\users\maksym.nechyporuk\documents\visual studio 2017\Projects\BDDBasketDemo\BDDBasketDemo\obj\Debug\BDDBasketDemo.pdb
